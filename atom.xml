@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[El Siguiente Programa]]></title>
   <link href="http://elsiguienteprograma.tv/atom.xml" rel="self"/>
   <link href="http://elsiguienteprograma.tv/"/>
-  <updated>2013-12-01T22:15:41-05:00</updated>
+  <updated>2013-12-01T23:30:39-05:00</updated>
   <id>http://elsiguienteprograma.tv/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Santiago]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Prueba De Sonido]]></title>
+    <link href="http://elsiguienteprograma.tv/blog/prueba-de-sonido/"/>
+    <updated>2013-12-01T23:14:46-05:00</updated>
+    <id>http://elsiguienteprograma.tv/blog/prueba-de-sonido</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
