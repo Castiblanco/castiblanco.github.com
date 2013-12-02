@@ -4,7 +4,7 @@
   <title><![CDATA[El Siguiente Programa]]></title>
   <link href="http://elsiguienteprograma.tv/atom.xml" rel="self"/>
   <link href="http://elsiguienteprograma.tv/"/>
-  <updated>2013-12-01T23:30:39-05:00</updated>
+  <updated>2013-12-02T18:00:07-05:00</updated>
   <id>http://elsiguienteprograma.tv/</id>
   <author>
     <name><![CDATA[Santiago]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Prueba De Sonido]]></title>
-    <link href="http://elsiguienteprograma.tv/blog/prueba-de-sonido/"/>
+    <link href="http://elsiguienteprograma.tv/prueba-de-sonido/"/>
     <updated>2013-12-01T23:14:46-05:00</updated>
-    <id>http://elsiguienteprograma.tv/blog/prueba-de-sonido</id>
+    <id>http://elsiguienteprograma.tv/prueba-de-sonido</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
