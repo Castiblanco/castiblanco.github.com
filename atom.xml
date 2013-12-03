@@ -4,7 +4,7 @@
   <title><![CDATA[El Siguiente Programa]]></title>
   <link href="http://elsiguienteprograma.tv/atom.xml" rel="self"/>
   <link href="http://elsiguienteprograma.tv/"/>
-  <updated>2013-12-03T14:15:40-05:00</updated>
+  <updated>2013-12-03T14:31:28-05:00</updated>
   <id>http://elsiguienteprograma.tv/</id>
   <author>
     <name><![CDATA[Castiblanco]]></name>
@@ -14,46 +14,181 @@
 
   
   <entry>
-    <title type="html"><![CDATA[La Radio: Un Mundo De Ideotas]]></title>
-    <link href="http://elsiguienteprograma.tv/la-radio-un-mundo-de-ideotas/"/>
-    <updated>2013-12-03T14:15:27-05:00</updated>
-    <id>http://elsiguienteprograma.tv/la-radio-un-mundo-de-ideotas</id>
+    <title type="html"><![CDATA[La Ciudad Boba]]></title>
+    <link href="http://elsiguienteprograma.tv/la-ciudad-boba/"/>
+    <updated>2013-12-03T14:30:19-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-ciudad-boba</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Reinadocracia: Qué Desgracia Parte 2]]></title>
-    <link href="http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-2/"/>
-    <updated>2013-12-03T14:15:12-05:00</updated>
-    <id>http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-2</id>
+    <title type="html"><![CDATA[El País Se Derrumba Y Nosotros De Rumba]]></title>
+    <link href="http://elsiguienteprograma.tv/el-pais-se-derrumba-y-nosotros-de-rumba/"/>
+    <updated>2013-12-03T14:30:10-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-pais-se-derrumba-y-nosotros-de-rumba</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Reinadocracia: Qué Desgracia Parte 1]]></title>
-    <link href="http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-1/"/>
-    <updated>2013-12-03T14:15:04-05:00</updated>
-    <id>http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-1</id>
+    <title type="html"><![CDATA[La Farándula Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/la-farandula-parte-2/"/>
+    <updated>2013-12-03T14:30:03-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-farandula-parte-2</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Pasión Enana]]></title>
-    <link href="http://elsiguienteprograma.tv/pasion-enana/"/>
-    <updated>2013-12-03T14:14:49-05:00</updated>
-    <id>http://elsiguienteprograma.tv/pasion-enana</id>
+    <title type="html"><![CDATA[La Farándula Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/la-farandula-parte-1/"/>
+    <updated>2013-12-03T14:29:58-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-farandula-parte-1</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Que Desastre]]></title>
-    <link href="http://elsiguienteprograma.tv/que-desastre/"/>
-    <updated>2013-12-03T14:14:31-05:00</updated>
-    <id>http://elsiguienteprograma.tv/que-desastre</id>
+    <title type="html"><![CDATA[Me Voy Pa'l Pueblo]]></title>
+    <link href="http://elsiguienteprograma.tv/me-voy-pal-pueblo/"/>
+    <updated>2013-12-03T14:29:51-05:00</updated>
+    <id>http://elsiguienteprograma.tv/me-voy-pal-pueblo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Noticaca Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/noticaca-parte-2/"/>
+    <updated>2013-12-03T14:29:43-05:00</updated>
+    <id>http://elsiguienteprograma.tv/noticaca-parte-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Noticaca Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/noticaca-parte-1/"/>
+    <updated>2013-12-03T14:29:40-05:00</updated>
+    <id>http://elsiguienteprograma.tv/noticaca-parte-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Paseo Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/el-paseo-parte-2/"/>
+    <updated>2013-12-03T14:29:33-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-paseo-parte-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Paseo Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/el-paseo-parte-1/"/>
+    <updated>2013-12-03T14:29:31-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-paseo-parte-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[De La Olla Al Hueco Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/de-la-olla-al-hueco-parte-2/"/>
+    <updated>2013-12-03T14:29:24-05:00</updated>
+    <id>http://elsiguienteprograma.tv/de-la-olla-al-hueco-parte-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[De La Olla Al Hueco Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/de-la-olla-al-hueco-parte-1/"/>
+    <updated>2013-12-03T14:29:22-05:00</updated>
+    <id>http://elsiguienteprograma.tv/de-la-olla-al-hueco-parte-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Iguassic Park]]></title>
+    <link href="http://elsiguienteprograma.tv/iguassic-park/"/>
+    <updated>2013-12-03T14:29:15-05:00</updated>
+    <id>http://elsiguienteprograma.tv/iguassic-park</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La 002 Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/la-002-parte-2/"/>
+    <updated>2013-12-03T14:29:05-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-002-parte-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La 002 Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/la-002-parte-1/"/>
+    <updated>2013-12-03T14:29:03-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-002-parte-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Caconia]]></title>
+    <link href="http://elsiguienteprograma.tv/caconia/"/>
+    <updated>2013-12-03T14:28:55-05:00</updated>
+    <id>http://elsiguienteprograma.tv/caconia</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Apagón Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/el-apagon-parte-2/"/>
+    <updated>2013-12-03T14:28:47-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-apagon-parte-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Apagón Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/el-apagon-parte-1/"/>
+    <updated>2013-12-03T14:28:45-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-apagon-parte-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Plan Chibchombia Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/el-plan-chibchombia-parte-2/"/>
+    <updated>2013-12-03T14:28:27-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-plan-chibchombia-parte-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Plan Chibchombia Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/el-plan-chibchombia-parte-1/"/>
+    <updated>2013-12-03T14:28:24-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-plan-chibchombia-parte-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Crimen Organizado Y Civilizado Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/el-crimen-organizado-y-civilizado-parte-2/"/>
+    <updated>2013-12-03T14:28:16-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-crimen-organizado-y-civilizado-parte-2</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
