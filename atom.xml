@@ -4,7 +4,7 @@
   <title><![CDATA[El Siguiente Programa]]></title>
   <link href="http://elsiguienteprograma.tv/atom.xml" rel="self"/>
   <link href="http://elsiguienteprograma.tv/"/>
-  <updated>2013-12-03T08:49:29-05:00</updated>
+  <updated>2013-12-03T14:15:40-05:00</updated>
   <id>http://elsiguienteprograma.tv/</id>
   <author>
     <name><![CDATA[Castiblanco]]></name>
@@ -12,5 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La Radio: Un Mundo De Ideotas]]></title>
+    <link href="http://elsiguienteprograma.tv/la-radio-un-mundo-de-ideotas/"/>
+    <updated>2013-12-03T14:15:27-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-radio-un-mundo-de-ideotas</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reinadocracia: Qué Desgracia Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-2/"/>
+    <updated>2013-12-03T14:15:12-05:00</updated>
+    <id>http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reinadocracia: Qué Desgracia Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-1/"/>
+    <updated>2013-12-03T14:15:04-05:00</updated>
+    <id>http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pasión Enana]]></title>
+    <link href="http://elsiguienteprograma.tv/pasion-enana/"/>
+    <updated>2013-12-03T14:14:49-05:00</updated>
+    <id>http://elsiguienteprograma.tv/pasion-enana</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Que Desastre]]></title>
+    <link href="http://elsiguienteprograma.tv/que-desastre/"/>
+    <updated>2013-12-03T14:14:31-05:00</updated>
+    <id>http://elsiguienteprograma.tv/que-desastre</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>

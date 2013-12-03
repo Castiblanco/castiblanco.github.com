@@ -1,6 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://elsiguienteprograma.tv/que-desastre/</loc>
+        <lastmod>2013-12-03T14:14:31-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://elsiguienteprograma.tv/pasion-enana/</loc>
+        <lastmod>2013-12-03T14:14:49-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-1/</loc>
+        <lastmod>2013-12-03T14:15:04-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://elsiguienteprograma.tv/reinadocracia-que-desgracia-parte-2/</loc>
+        <lastmod>2013-12-03T14:15:12-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://elsiguienteprograma.tv/la-radio-un-mundo-de-ideotas/</loc>
+        <lastmod>2013-12-03T14:15:27-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://elsiguienteprograma.tv/temporada-3/</loc>
         <lastmod>2013-12-03T08:47:04-05:00</lastmod>
     </url>
@@ -18,7 +38,7 @@
     </url>
     <url>
         <loc>http://elsiguienteprograma.tv/</loc>
-        <lastmod>2013-12-03T05:34:52-05:00</lastmod>
+        <lastmod>2013-12-03T14:15:27-05:00</lastmod>
     </url>
     <url>
         <loc>http://elsiguienteprograma.tv/temporada-1/</loc>
@@ -26,6 +46,6 @@
     </url>
     <url>
         <loc>http://elsiguienteprograma.tv/archives/</loc>
-        <lastmod>2013-12-01T21:48:29-05:00</lastmod>
+        <lastmod>2013-12-03T14:15:27-05:00</lastmod>
     </url>
 </urlset>
