@@ -4,7 +4,7 @@
   <title><![CDATA[El Siguiente Programa]]></title>
   <link href="http://elsiguienteprograma.tv/atom.xml" rel="self"/>
   <link href="http://elsiguienteprograma.tv/"/>
-  <updated>2013-12-03T07:38:24-05:00</updated>
+  <updated>2013-12-03T08:37:12-05:00</updated>
   <id>http://elsiguienteprograma.tv/</id>
   <author>
     <name><![CDATA[Castiblanco]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Prueba De Sonido]]></title>
-    <link href="http://elsiguienteprograma.tv/prueba-de-sonido/"/>
-    <updated>2013-12-01T23:14:46-05:00</updated>
-    <id>http://elsiguienteprograma.tv/prueba-de-sonido</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
