@@ -1,0 +1,37 @@
+---
+layout: page
+title: "temporada 1"
+date: 2013-12-01 23:22
+comments: false
+sharing: true
+footer: true
+---
+
+<ol>
+<li><a href="{{ root_url }}/que-desastre">Que desastre</a></li>
+<li><a href="{{ root_url }}/pasion-enana">Pasión enana</a></li>
+<li><a href="{{ root_url }}/reinadocracia-que-desgracia-parte-1">Reinadocracia: qué desgracia parte 1</a></li>
+<li><a href="{{ root_url }}/">Reinadocracia: qué desgracia parte 2</a></li>
+<li><a href="{{ root_url }}/">La radio: un mundo de ideotas</a></li>
+<li><a href="{{ root_url }}/">Iguazomanía parte 1</a></li>
+<li><a href="{{ root_url }}/">Iguazomanía parte 2</a></li>
+<li><a href="{{ root_url }}/">Infeliz navidad</a></li>
+<li><a href="{{ root_url }}/">New York New York parte 1</a></li>
+<li><a href="{{ root_url }}/">New York New York parte 2</a></li>
+<li><a href="{{ root_url }}/">Por que somos así</a></li>
+<li><a href="{{ root_url }}/">Por una cabeza</a></li>
+<li><a href="{{ root_url }}/">El poder para qué parte 1</a></li>
+<li><a href="{{ root_url }}/">El poder para qué parte 2</a></li>
+<li><a href="{{ root_url }}/">Doña anciana decrépita</a></li>
+<li><a href="{{ root_url }}/">Ceguera cucuteña</a></li>
+<li><a href="{{ root_url }}/">Picaro de Bribón</a></li>
+<li><a href="{{ root_url }}/">Futuro extra-ordinario</a></li>
+<li><a href="{{ root_url }}/">El mundo light</a></li>
+<li><a href="{{ root_url }}/">En directo con Jaime Gayly parte 1</a></li>
+<li><a href="{{ root_url }}/">En directo con Jaime Gayly parte 2</a></li>
+<li><a href="{{ root_url }}/">Saldo en rojo</a></li>
+<li><a href="{{ root_url }}/">Blas de Lezo tuvo la culpa</a></li>
+<li><a href="{{ root_url }}/">El campo santo</a></li>
+<li><a href="{{ root_url }}/">Fracasamos otra vez... rotundamente</a></li>
+<li><a href="{{ root_url }}/">El conde Cerdo Moulin</a></li>
+</ol> 

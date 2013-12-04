@@ -1,0 +1,33 @@
+---
+layout: page
+title: "temporada 2"
+date: 2013-12-03 07:30
+comments: false
+sharing: true
+footer: true
+---
+
+<ol>
+<li><a href="{{ root_url }}/">Indiferendo Fronterizo Parte 1</a></li>
+<li><a href="{{ root_url }}/">Indiferendo Fronterizo Parte 2</a></li>
+<li><a href="{{ root_url }}/">El caso Cotes</a></li>
+<li><a href="{{ root_url }}/">Estamos en la Olla Podrida</a></li>
+<li><a href="{{ root_url }}/">Descaro Olímpico</a></li>
+<li><a href="{{ root_url }}/">Cursillo de Historia Chibchombiana Parte 1</a></li>
+<li><a href="{{ root_url }}/">Cursillo de Historia Chibchombiana Parte 2</a></li>
+<li><a href="{{ root_url }}/">¿Qué el presidente Clinton va a renunciar? ¡mamola! Parte 1</a></li>
+<li><a href="{{ root_url }}/">¿Qué el presidente Clinton va a renunciar? ¡mamola! Parte 2</a></li>
+<li><a href="{{ root_url }}/">La policía creativa Parte 1</a></li>
+<li><a href="{{ root_url }}/">La policía creativa Parte 2</a></li>
+<li><a href="{{ root_url }}/">La Decrepition</a></li>
+<li><a href="{{ root_url }}/">Inmerecido descanso</a></li>
+<li><a href="{{ root_url }}/">El despejote Parte 1</a></li>
+<li><a href="{{ root_url }}/">El despejote Parte 2</a></li>
+<li><a href="{{ root_url }}/">El despejote Parte 3</a></li>
+<li><a href="{{ root_url }}/">Fantasías desanimadas de ayer y hoy Parte 1</a></li>
+<li><a href="{{ root_url }}/">Fantasías desanimadas de ayer y hoy Parte 2</a></li>
+<li><a href="{{ root_url }}/">Iguazolandia Parte 1</a></li>
+<li><a href="{{ root_url }}/">Iguazolandia Parte 2</a></li>
+<li><a href="{{ root_url }}/">Iguazolandia Parte 3</a></li>
+<li><a href="{{ root_url }}/">La irreverencia</a></li>
+</ol> 

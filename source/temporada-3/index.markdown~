@@ -1,0 +1,33 @@
+---
+layout: page
+title: "temporada 3"
+date: 2013-12-03 07:30
+comments: false
+sharing: true
+footer: true
+---
+
+<ol>
+<li><a href="{{ root_url }}/">Al mal tiempo mala cara parte 1</a></li>
+<li><a href="{{ root_url }}/">Al mal tiempo mala cara parte 2</a></li>
+<li><a href="{{ root_url }}/">Los premios alboider parte 1</a></li>
+<li><a href="{{ root_url }}/">Los premios alboider parte 2</a></li>
+<li><a href="{{ root_url }}/">Soluciones parte 1</a></li>
+<li><a href="{{ root_url }}/">Soluciones parte 2</a></li>
+<li><a href="{{ root_url }}/">El éxodo parte 1</a></li>
+<li><a href="{{ root_url }}/">El éxodo parte 2</a></li>
+<li><a href="{{ root_url }}/">Tv or not tv</a></li>
+<li><a href="{{ root_url }}/">La subienda parte 1</a></li>
+<li><a href="{{ root_url }}/">La subienda parte 2</a></li>
+<li><a href="{{ root_url }}/">El rebaño de la certeza parte 1</a></li>
+<li><a href="{{ root_url }}/">El rebaño de la certeza parte 2</a></li>
+<li><a href="{{ root_url }}/">El concurso</a></li>
+<li><a href="{{ root_url }}/">La devoradora de Bora Bora parte 1</a></li>
+<li><a href="{{ root_url }}/">La devoradora de Bora Bora parte 2</a></li>
+<li><a href="{{ root_url }}/">La guandoca parte 1</a></li>
+<li><a href="{{ root_url }}/">La guandoca parte 2</a></li>
+<li><a href="{{ root_url }}/">Santiago de Francisco</a></li>
+<li><a href="{{ root_url }}/">Politícamente incorrectos</a></li>
+<li><a href="{{ root_url }}/">Chibchombia ano 2000</a></li>
+<li><a href="{{ root_url }}/">El campo Clud</a></li>
+</ol>
