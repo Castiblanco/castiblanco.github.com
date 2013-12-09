@@ -83,6 +83,7 @@
     <div id="content">
       <div>
 <article class="hentry" role="article">
+<div class="rw-ui-container"></div>
   
   <header>
     
@@ -233,5 +234,40 @@
 
 
 
+
+<script type="text/javascript">(function(d, t, e, m){
+    // Async Rating-Widget initialization.
+    window.RW_Async_Init = function(){
+        RW.init({
+            huid: "146610",
+            uid: "9a93d674042395d7318fd083dfa30963",
+            source: "website",
+            options: {
+                "advanced": {
+                    "font": {
+                        "size": "11px",
+                        "italic": true,
+                        "type": "'Droid Sans',Helvetica,sans-serif"
+                    }
+                },
+                "size": "tiny",
+                "style": "crystal",
+                "lng": "es"
+            } 
+        });
+        RW.render();
+    };
+
+    // Append Rating-Widget JavaScript library.
+    var rw, s = d.getElementsByTagName(e)[0], id = "rw-js",
+        p = d.location.protocol, a = ("https:" == p ? "secure." + 
+        m + "js/" : "js." + m), ck = "Y" + t.getFullYear() + "M" + 
+        t.getMonth() + "D" + t.getDate();
+    if (d.getElementById(id)) return;              
+    rw = d.createElement(e);
+    rw.id = id; rw.async = true; rw.type = "text/javascript";
+    rw.src = p + "//" + a + "external.min.js?ck=" + ck;
+    s.parentNode.insertBefore(rw, s);
+}(document, new Date(), "script", "rating-widget.com/"));</script>
 </body>
 </html>
