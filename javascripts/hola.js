@@ -1,0 +1,3 @@
+myJsFunc(){
+alert("Hola!");
+};
