@@ -82,14 +82,14 @@ Cursillo de &hellip;">
   <li><a href="/temporada-4">4</a></li>
   <li><a href="javascript:doSomething();">Capítulo al Azar!</a></li>
 
-<script type="javascript" src="ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-<script type="javascript">
+<script type="text/javascript" src="ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript">
   function doSomething() {
 
   google.load("jquery", "1.4");
  
  jQuery.getFeed({
-   url: 'atom.xml',
+   url: 'elsiguienteprograma.tv/atom.xml',
    success: function(feed) {
      alert(feed.title);
    }
