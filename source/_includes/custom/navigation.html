@@ -6,9 +6,21 @@
   <li><a href="{{ root_url }}/temporada-4">4</a></li>
   <li><a href="javascript:doSomething();">Capítulo al Azar!</a></li>
 
-<script>
-function doSomething() {
-  alert("Post al azar!!!")
+<script type="text/javascript" src="ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript">
+  function doSomething() {
+
+ jQuery.getFeed({
+   url: 'elsiguienteprograma.tv/atom.xml',
+   success: function(feed) {
+     alert(feed.title);
+   }
+ });
+
+  alert("dsdasda");
+  
 }
 </script>
+
+
 </ul>
