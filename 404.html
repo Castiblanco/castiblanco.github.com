@@ -77,18 +77,21 @@
   <li><a href="/temporada-4">4</a></li>
   <li><a href="javascript:doSomething();">Capítulo al Azar!</a></li>
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
-function doSomething() {
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
 
- jQuery.getFeed({
-   url: 'atom.xml',
-   success: function(feed) {
-     alert(feed.title);
-   }
- });
+<script>
+	function doSomething() {
 
-  alert("Post al azar!!!")
-}
+	 jQuery.getFeed({
+	   url: 'atom.xml',
+	   success: function(feed) {
+	     alert(feed.title);
+	   }
+	 });
+
+	  alert("Post al azar!!!")
+	}
 </script>
 
 
