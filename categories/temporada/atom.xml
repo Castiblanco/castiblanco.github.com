@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Temporada | El Siguiente Programa]]></title>
+  <link href="http://elsiguienteprograma.tv/categories/temporada/atom.xml" rel="self"/>
+  <link href="http://elsiguienteprograma.tv/"/>
+  <updated>2013-12-11T20:41:12-05:00</updated>
+  <id>http://elsiguienteprograma.tv/</id>
+  <author>
+    <name><![CDATA[Castiblanco]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[El Siguiente Programa - Que Desastre]]></title>
+    <link href="http://elsiguienteprograma.tv/que-desastre/"/>
+    <updated>2013-12-03T14:14:31-05:00</updated>
+    <id>http://elsiguienteprograma.tv/que-desastre</id>
+    <content type="html"><![CDATA[<div align="center">
+Un día cualquiera, las desgraciadas vidas de Martín de Francisco y Santiago Moure en junio de 1996.
+<br></br>
+<iframe width="720" height="480" src="http://elsiguienteprograma.tv//www.youtube.com/embed/edHAcbq1uU0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
