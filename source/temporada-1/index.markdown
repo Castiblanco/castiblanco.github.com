@@ -22,7 +22,7 @@ footer: true
 <li><a href="{{ root_url }}/por-una-cabeza">Por una cabeza</a></li>
 <li><a href="{{ root_url }}/el-poder-para-que-parte-1">El poder para qué parte 1</a></li>
 <li><a href="{{ root_url }}/el-poder-para-que-parte-2">El poder para qué parte 2</a></li>
-<li><a href="{{ root_url }}/doña-anciana-decrepita">Doña anciana decrépita</a></li>
+<li><a href="{{ root_url }}/dona-anciana-decrepita">Doña anciana decrépita</a></li>
 <li><a href="{{ root_url }}/ceguera-cucutena">Ceguera cucuteña</a></li>
 <li><a href="{{ root_url }}/picaro-de-bribon">Picaro de Bribón</a></li>
 <li><a href="{{ root_url }}/futuro-extra-ordinario">Futuro extra-ordinario</a></li>
