@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Temporada-1 | El Siguiente Programa]]></title>
-  <link href="http://elsiguienteprograma.tv/categories/temporada-1/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Temporada | El Siguiente Programa]]></title>
+  <link href="http://elsiguienteprograma.tv/categories/temporada/atom.xml" rel="self"/>
   <link href="http://elsiguienteprograma.tv/"/>
-  <updated>2013-12-11T20:43:38-05:00</updated>
+  <updated>2013-12-11T20:45:10-05:00</updated>
   <id>http://elsiguienteprograma.tv/</id>
   <author>
     <name><![CDATA[Castiblanco]]></name>
