@@ -8,6 +8,7 @@ subtitle: Ver El Siguiente Programa en Línea
 author: Castiblanco
 simple_search: http://google.com/search
 description: Mira El Siguiente Programa en Línea, todos los capítulos y temporadas completas
+keywords: el siguiente programa, el siguiente programa en línea, el siguiente programa tv, chibchombia
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: siguienteprogra
 twitter_tweet_button: true
 
 # Google +1

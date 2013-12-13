@@ -5,6 +5,5 @@ header[role="banner"] {
      background-image: url(/banner.png);
      background-repeat: no-repeat;
      background-position:left;
-     margin-left:1em;
 }
 
