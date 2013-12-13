@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - El concurso"
+title: "El Siguiente Programa 3x14 El concurso"
 date: 2013-12-03 14:27:05 -0500
 comments: true
 categories: 

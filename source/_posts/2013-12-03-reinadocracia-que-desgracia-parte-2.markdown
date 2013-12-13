@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - Reinadocracia: qué desgracia parte 2"
+title: "El Siguiente Programa 1x4 Reinadocracia: qué desgracia parte 2"
 date: 2013-12-03 14:15:12 -0500
 comments: true
 categories: 

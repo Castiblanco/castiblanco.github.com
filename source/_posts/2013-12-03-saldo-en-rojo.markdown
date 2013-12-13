@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - Saldo en rojo"
+title: "El Siguiente Programa 1x22 Saldo en rojo"
 date: 2013-12-03 14:21:33 -0500
 comments: true
 categories: 
