@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - Fantasías desanimadas de ayer y hoy Parte 2"
+title: "El Siguiente Programa 2x18 Fantasías desanimadas de ayer y hoy Parte 2"
 date: 2013-12-03 14:25:18 -0500
 comments: true
 categories: 

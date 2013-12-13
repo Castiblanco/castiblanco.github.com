@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 1x17 Picaro de Bribón"
 date: 2013-12-03 14:20:45 -0500
 comments: true
-categories: 
+categories: [temporada 1, el siguiente programa]
 ---
 <div align="center">
 El gobierno chibchombiano anuncia que un metorito caerá el 8 de mayo de 2006 y para evitar que caiga el ex-gobernador del Putumarzo y Embajador en Nueva Zelanda Dr. de Bribon gana la licitación y tendrán que pasar 8 años para destruirlo.

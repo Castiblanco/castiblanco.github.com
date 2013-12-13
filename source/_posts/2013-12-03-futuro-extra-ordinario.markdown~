@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - Futuro extra-ordinario"
+title: "El Siguiente Programa 1x18 Futuro extra-ordinario"
 date: 2013-12-03 14:20:54 -0500
 comments: true
 categories: 

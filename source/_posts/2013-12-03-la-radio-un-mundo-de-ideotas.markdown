@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 1x5 La radio: un mundo de ideotas"
 date: 2013-12-03 14:15:27 -0500
 comments: true
-categories: 
+categories: [temporada 1, el siguiente programa]
 ---
 <div align="center">
 La competencia que demostrará quien es el mejor locutor y el que más suba el rating.

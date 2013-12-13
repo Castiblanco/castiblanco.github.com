@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 1x20 En directo con Jaime Gayly parte 1"
 date: 2013-12-03 14:21:14 -0500
 comments: true
-categories: 
+categories: [temporada 1, el siguiente programa]
 ---
 <div align="center">
 La entrevista y reseña de Martín y Santiago desde su niñez antes de conocerse.

@@ -4,8 +4,6 @@ title: "El Siguiente Programa 3x1 Al mal tiempo mala cara parte 1"
 date: 2013-12-03 14:25:47 -0500
 comments: true
 categories: [temporada 1, el siguiente programa]
-keywords: el siguiente programa,temporada 1,el siguiente programa en línea
-description: Capítulo 1 de la primera temporada de El Siguiente Programa
 ---
 <div align="center">
 El gobierno de Andrés Patraña en medio de la mayor crisis económica de Chibchombia, realiza una camapaña de propagandas en las que promueve el optimismo, mientras el dúo trata de demostrar que será de nuevo un fracaso.

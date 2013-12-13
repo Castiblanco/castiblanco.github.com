@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 3x12 El rebaño de la certeza parte 1"
 date: 2013-12-03 14:26:57 -0500
 comments: true
-categories: 
+categories: [temporada 3, el siguiente programa]
 ---
 <div align="center">
 Martín, después de muchas reflexiones de lo malo que ha sido con la gente, entra en un trance espiritual y se convierte en un líder espiritual, mientras Santiago saca provecho económico de los seguidores de Martín.

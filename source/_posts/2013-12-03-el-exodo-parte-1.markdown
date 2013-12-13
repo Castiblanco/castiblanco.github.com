@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 3x7 El éxodo parte 1"
 date: 2013-12-03 14:26:23 -0500
 comments: true
-categories: 
+categories: [temporada 3, el siguiente programa]
 ---
 <div align="center">
 En medio de la situación tan complicada que se vive en Chibchombia casi toda su población emigra hacia distintos países de la geografía mundial, al ser los chibchombianos los culpables de nuevas desgracias en los otros países son devueltos a Chibchombia.

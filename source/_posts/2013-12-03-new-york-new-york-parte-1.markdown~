@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - New York New York parte 1"
+title: "El Siguiente Programa 1x9 New York New York parte 1"
 date: 2013-12-03 14:19:17 -0500
 comments: true
 categories: 

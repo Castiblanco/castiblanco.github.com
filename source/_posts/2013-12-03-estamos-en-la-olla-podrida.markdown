@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 2x4 Estamos en la Olla Podrida"
 date: 2013-12-03 14:23:36 -0500
 comments: true
-categories: 
+categories: [temporada 2, el siguiente programa]
 ---
 <div align="center">
 La historia de la corrupción en Chibchombia.

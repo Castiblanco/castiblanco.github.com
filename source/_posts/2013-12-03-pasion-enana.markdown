@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 1x2 Pasión enana"
 date: 2013-12-03 14:14:49 -0500
 comments: true
-categories: 
+categories: [temporada 1, el siguiente programa]
 ---
 
 <div align="center">

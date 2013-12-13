@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 3x9 Tv or not tv"
 date: 2013-12-03 14:26:35 -0500
 comments: true
-categories: 
+categories: [temporada 3, el siguiente programa]
 ---
 <div align="center">
 La televisión comercial se vuelve insostenible económicamente y como consecuencia los actores reconocidos no son contratados para telenovelas y ahora son contratados extras para los papeles principales y los actores y demás famosos para telemercadeo (entre ellos Martín y Santiago), situación que ocasiona el fin de la televisión comercial, cumpliéndose así el sueño de Santiago de hacer televisión educativa y cultural.

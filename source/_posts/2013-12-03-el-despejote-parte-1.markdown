@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 2x14 El despejote Parte 1"
 date: 2013-12-03 14:25:00 -0500
 comments: true
-categories: 
+categories: [temporada 2, el siguiente programa]
 ---
 <div align="center">
 Martín, Santiago y Cerdo provocan accidentalmente una interferencia con los canales de la televisión chibchombiana y aprovechando las interferencias, ellos forman el "Movimiento Machete".

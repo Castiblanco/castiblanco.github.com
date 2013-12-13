@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 3x8 El éxodo parte 2"
 date: 2013-12-03 14:26:26 -0500
 comments: true
-categories: 
+categories: [temporada 3, el siguiente programa]
 ---
 <div align="center">
 

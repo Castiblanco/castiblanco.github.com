@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 2x2 Indiferendo Fronterizo Parte 2"
 date: 2013-12-03 14:23:19 -0500
 comments: true
-categories: 
+categories: [temporada 2, el siguiente programa]
 ---
 <div align="center">
 Los conflictos entre Chibchombia y Chamozuela continuan.

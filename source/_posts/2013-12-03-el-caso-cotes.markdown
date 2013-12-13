@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 2x3 El caso Cotes"
 date: 2013-12-03 14:23:27 -0500
 comments: true
-categories: 
+categories: [temporada 2, el siguiente programa]
 ---
 <div align="center">
 Martín de Francisco toma la decisión de contraer matrimonio con la prima de su amigo Santiago Moure quien es una travestie Brasilera llamada antes Roberto.

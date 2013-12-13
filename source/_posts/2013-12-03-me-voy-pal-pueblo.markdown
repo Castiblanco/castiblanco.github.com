@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 4x17 Me Voy Pa'l Pueblo"
 date: 2013-12-03 14:29:51 -0500
 comments: true
-categories: 
+categories: [temporada 4, el siguiente programa]
 ---
 <div align="center">
 

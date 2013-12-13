@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 1x24 El campo santo"
 date: 2013-12-03 14:21:54 -0500
 comments: true
-categories: 
+categories: [temporada 1, el siguiente programa]
 ---
 <div align="center">
 Martín y Santiago se van de la pesada ciudad para ser campesinos pero la guerrilla los destierra.

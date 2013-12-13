@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - Indiferendo Fronterizo Parte 1"
+title: "El Siguiente Programa 2x1 Indiferendo Fronterizo Parte 1"
 date: 2013-12-03 14:23:16 -0500
 comments: true
 categories: 

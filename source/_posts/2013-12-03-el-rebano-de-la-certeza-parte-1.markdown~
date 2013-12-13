@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Siguiente Programa - El rebaño de la certeza parte 1"
+title: "El Siguiente Programa 3x12 El rebaño de la certeza parte 1"
 date: 2013-12-03 14:26:57 -0500
 comments: true
 categories: 

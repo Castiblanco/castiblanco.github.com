@@ -3,7 +3,7 @@ layout: post
 title: "El Siguiente Programa 1x25 Fracasamos otra vez... rotundamente"
 date: 2013-12-03 14:22:02 -0500
 comments: true
-categories: 
+categories: [temporada 1, el siguiente programa]
 ---
 <div align="center">
 Como Martín y Santiago viven el fracaso de la Selección Colombia de fútbol en el mundial de Francia 1998.
