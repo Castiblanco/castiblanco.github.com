@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Temporada 1 | El Siguiente Programa]]></title>
+  <link href="http://elsiguienteprograma.tv/categories/temporada-1/atom.xml" rel="self"/>
+  <link href="http://elsiguienteprograma.tv/"/>
+  <updated>2013-12-13T06:41:12-05:00</updated>
+  <id>http://elsiguienteprograma.tv/</id>
+  <author>
+    <name><![CDATA[Castiblanco]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[El Siguiente Programa 3x1 Al Mal Tiempo Mala Cara Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/al-mal-tiempo-mala-cara-parte-1/"/>
+    <updated>2013-12-03T14:25:47-05:00</updated>
+    <id>http://elsiguienteprograma.tv/al-mal-tiempo-mala-cara-parte-1</id>
+    <content type="html"><![CDATA[<div align="center">
+El gobierno de Andrés Patraña en medio de la mayor crisis económica de Chibchombia, realiza una camapaña de propagandas en las que promueve el optimismo, mientras el dúo trata de demostrar que será de nuevo un fracaso.
+<br></br>
+<iframe width="720" height="480" src="http://elsiguienteprograma.tv//www.youtube.com/embed/VFnGze1kn_0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
