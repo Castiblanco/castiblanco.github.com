@@ -15,16 +15,19 @@
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta property="og:title" value="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
-<meta property="og:description" value="Mira El Siguiente Programa en Línea, todos los capítulos y temporadas completas" />
-<meta property="og:url" value="{{ site.url }}{{ page.url }}" />                    
-<meta property="og:type" content="blog" />                                    
-<meta property="og:image" value="{{ root_url }}/avatar.png" />
+
+<meta property="og:image"  content="http://elsiguienteprograma.tv/avatar.png" >
+<meta property="og:description"  content="Mira El Siguiente Programa en Línea, todos los capítulos y temporadas completas.">
+<meta property="og:url"  content="{{ site.url }}{{ page.url }}">
+<meta property="og:type"  content="video.episode">
+<meta property="og:title"  content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+
+
 
 
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-  <link rel="image_src" href="http://elsiguienteprograma.tv/avatar.png"/>
+  
 
   <link rel="canonical" href="{{ canonical }}">
   <link href="{{ root_url }}/favicon.png" rel="icon">
