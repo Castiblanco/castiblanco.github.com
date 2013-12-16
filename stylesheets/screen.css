@@ -1,5 +1,5 @@
 /*
-Syntax error: #3100e0 is not a number for `lighten'
+Syntax error: (3100e 0) is not a number for `lighten'
         on line 6 of /home/diego/octopress/sass/custom/_colors.scss
         from line 4 of /home/diego/octopress/sass/screen.scss
 
@@ -58,4 +58,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: #3100e0 is not a number for `lighten'\A         on line 6 of /home/diego/octopress/sass/custom/_colors.scss\A         from line 4 of /home/diego/octopress/sass/screen.scss\A \A 1: /home/diego/octopress/sass/screen.scss"; }
+  content: "Syntax error: (3100e 0) is not a number for `lighten'\A         on line 6 of /home/diego/octopress/sass/custom/_colors.scss\A         from line 4 of /home/diego/octopress/sass/screen.scss\A \A 1: /home/diego/octopress/sass/screen.scss"; }
