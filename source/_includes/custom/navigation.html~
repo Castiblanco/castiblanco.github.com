@@ -1,7 +1,0 @@
-<ul class="main-navigation">
-  <li>Temporada</li>
-  <li><a href="{{ root_url }}/temporada-1">1</a></li>
-  <li><a href="{{ root_url }}/temporada-2">2</a></li>
-  <li><a href="{{ root_url }}/temporada-3">3</a></li>
-  <li><a href="{{ root_url }}/temporada-4">4</a></li>
-</ul>

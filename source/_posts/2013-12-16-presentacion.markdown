@@ -2,7 +2,7 @@
 layout: post
 title: "Presentación"
 date: 2013-12-16 13:17:54 -0500
-comments: false
+comments: true
 categories: [el siguiente programa]
 ---
 <div align="center"><iframe width="720" height="480" src="//www.youtube.com/embed/epwH1VAYTIo" frameborder="0" allowfullscreen></iframe>
