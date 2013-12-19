@@ -6,15 +6,15 @@
       xml:lang="ES" 
       lang="ES" 
       xmlns:fb="http://www.facebook.com/2008/fbml"
-      xmlns:og="http://ogp.me/ns#">
+      xmlns:og="http://opengraphprotocol.org/schema/" >
 <head>
 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <title>{% if page.title %}{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %} - {% endif %}{{ site.title }}</title>
-<meta name="author" content="ElSiguientePrograma.TV"/>
-<meta name="owner" content="ElSiguientePrograma.TV" />
-<meta name="language" content="ES" />
+<meta name="author" content="ElSiguientePrograma.TV">
+<meta name="owner" content="ElSiguientePrograma.TV">
+<meta name="language" content="ES">
 
 {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
 {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
@@ -22,14 +22,17 @@
 <meta name="description" content="Mira El Siguiente Programa en Linea, todos los capitulos y temporadas completas">
 <meta name="keywords" content="el siguiente programa, el siguiente programa en linea, el siguiente programa tv, todos los capitulos de el siguiente programa">
 
+<link rel="canonical" href="{{ canonical }}/">
+
 <!-- Open Graph data -->
-<meta property="fb:admins" content="100000376123690" />
-<meta property="fb:page_id" content="1427389077478824" />
+<meta property="fb:admins" content="100000376123690" >
+<meta property="fb:page_id" content="1427389077478824" >
 <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 <meta property="og:description" content="Mira El Siguiente Programa en Línea, todos los capítulos y temporadas completas.">
-<meta property="og:image" content="http://elsiguienteprograma.tv/avatar.png" />
-<link rel="image_src" href="http://elsiguienteprograma.tv/avatar.png" />
-<meta property="og:url" content="{{ canonical }}"/>
+<meta property="og:image" content="http://elsiguienteprograma.tv/avatar.png" >
+<link rel="image_src" href="http://elsiguienteprograma.tv/avatar.png" >
+<meta property="og:url" href="{{ canonical }}/">
+<meta property="og:type" content="website" >
 
 <!-- Schema.org markup for Google+ -->
 <meta itemprop="name" content="El Siguiente Programa TV">
@@ -49,7 +52,7 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1">  
 
-  <link rel="canonical" href="{{ canonical }}">
+  
   <link href="{{ root_url }}/favicon.png" rel="icon">
   <link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">

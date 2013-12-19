@@ -24,8 +24,8 @@ footer: true
 <li><a href="{{ root_url }}/el-despejote-parte-1">El despejote Parte 1</a></li>
 <li><a href="{{ root_url }}/el-despejote-parte-2">El despejote Parte 2</a></li>
 <li><a href="{{ root_url }}/el-despejote-parte-3">El despejote Parte 3</a></li>
-<li><a href="{{ root_url }}/fantasías-desanimadas-de-ayer-y-hoy-parte-1">Fantasías desanimadas de ayer y hoy Parte 1</a></li>
-<li><a href="{{ root_url }}/fantasías-desanimadas-de-ayer-y-hoy-parte-2">Fantasías desanimadas de ayer y hoy Parte 2</a></li>
+<li><a href="{{ root_url }}/fantasias-desanimadas-de-ayer-y-hoy-parte-1">Fantasías desanimadas de ayer y hoy Parte 1</a></li>
+<li><a href="{{ root_url }}/fantasias-desanimadas-de-ayer-y-hoy-parte-2">Fantasías desanimadas de ayer y hoy Parte 2</a></li>
 <li><a href="{{ root_url }}/iguazolandia-parte-1">Iguazolandia Parte 1</a></li>
 <li><a href="{{ root_url }}/iguazolandia-parte-2">Iguazolandia Parte 2</a></li>
 <li><a href="{{ root_url }}/iguazolandia-parte-3">Iguazolandia Parte 3</a></li>
