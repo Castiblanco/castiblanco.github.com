@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: El Siguiente Programa | El Siguiente Programa]]></title>
+  <link href="http://elsiguienteprograma.tv/categories/el-siguiente-programa/atom.xml" rel="self"/>
+  <link href="http://elsiguienteprograma.tv/"/>
+  <updated>2013-12-19T13:32:26-05:00</updated>
+  <id>http://elsiguienteprograma.tv/</id>
+  <author>
+    <name><![CDATA[Castiblanco]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Presentación]]></title>
+    <link href="http://elsiguienteprograma.tv/presentacion/"/>
+    <updated>2013-12-16T13:17:54-05:00</updated>
+    <id>http://elsiguienteprograma.tv/presentacion</id>
+    <content type="html"><![CDATA[<div align="center"><iframe width="720" height="480" src="http://elsiguienteprograma.tv//www.youtube.com/embed/epwH1VAYTIo" frameborder="0" allowfullscreen></iframe>
+Intro de la serie animada <b>El Siguiente Programa</b>, una creación de Cenpro TV lanzada como continuación del programa <i>La Tele</i> en el que Martín De Francisco y Santiago Moure hablan de un país llamado Chibchombia, en un formato muy particular. Dese la oportunidad de recordar la historia de este país y reflexiionar cuánto ha cambiado. Y esto es todo o mejor dicho nada!
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Siguiente Programa 4x21 La Ciudad Boba]]></title>
+    <link href="http://elsiguienteprograma.tv/la-ciudad-boba/"/>
+    <updated>2013-12-03T14:30:19-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-ciudad-boba</id>
+    <content type="html"><![CDATA[<div align="center">
+
+<br></br>
+<iframe width="720" height="480" src="http://elsiguienteprograma.tv//www.youtube.com/embed/_RKJYnJMJMs" frameborder="0" allowfullscreen></iframe>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Siguiente Programa 4x20 El País Se Derrumba Y Nosotros De Rumba]]></title>
+    <link href="http://elsiguienteprograma.tv/el-pais-se-derrumba-y-nosotros-de-rumba/"/>
+    <updated>2013-12-03T14:30:10-05:00</updated>
+    <id>http://elsiguienteprograma.tv/el-pais-se-derrumba-y-nosotros-de-rumba</id>
+    <content type="html"><![CDATA[<div align="center">
+
+<br></br>
+<iframe width="720" height="480" src="http://elsiguienteprograma.tv//www.youtube.com/embed/m-YlxMx2OVc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Siguiente Programa 4x19 La Farándula Parte 2]]></title>
+    <link href="http://elsiguienteprograma.tv/la-farandula-parte-2/"/>
+    <updated>2013-12-03T14:30:03-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-farandula-parte-2</id>
+    <content type="html"><![CDATA[<div align="center">
+
+<br></br>
+<iframe width="720" height="480" src="http://elsiguienteprograma.tv//www.youtube.com/embed/7OZ54tx8Iyw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Siguiente Programa 4x18 La Farándula Parte 1]]></title>
+    <link href="http://elsiguienteprograma.tv/la-farandula-parte-1/"/>
+    <updated>2013-12-03T14:29:58-05:00</updated>
+    <id>http://elsiguienteprograma.tv/la-farandula-parte-1</id>
+    <content type="html"><![CDATA[<div align="center">
+
+<br></br>
+<iframe width="720" height="480" src="http://elsiguienteprograma.tv//www.youtube.com/embed/-aAqnvGYOuc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
