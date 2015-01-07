@@ -7,6 +7,11 @@ layout: default
   {% if page.title %}
   <header>
     <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    <!--Copy and paste the code below into the location on your website where the ad will appear.-->
+<center><script type='text/javascript'>
+var adParams = {a: '52001043', size: '468x60',serverdomain: 'adk2trk2.cpmrocket.com'  };
+</script>
+<script type='text/javascript' src='http://adk2cdn.cpmrocket.com/cpmrocket/scripts/smart/smart.js'></script></center>
     {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
   </header>
   {% endif %}
@@ -26,7 +31,7 @@ layout: default
 </article>
 {% if site.disqus_short_name and page.comments == true %}
   <section>
-    <h1>Comments</h1>
+    <h2>Comentarios de Chibchombianos</h2>
     <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
   </section>
 {% endif %}
